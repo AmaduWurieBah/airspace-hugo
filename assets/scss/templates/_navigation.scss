@@ -1,14 +1,15 @@
 .navigation {
-  background: #2ec8aa;
+  background: #fff;
   padding: 20px 0;
 
   .navbar {
     margin-bottom: 0px;
+    padding-left: 40px;
     border: 0px;
   }
 
   .navbar-brand {
-    padding-top: 5px;
+    padding-top: 3px;
   }
 
   .navbar {
@@ -20,7 +21,7 @@
 
       >li {
         >a {
-          color: #5C5C5C;
+          color: #2ec8aa;
           padding: 10px 15px;
 
           font : {
@@ -32,7 +33,7 @@
 
           &:hover,
           &:focus {
-            color: #2ec8aa;
+            color: #000;
             background: transparent;
           }
         }
