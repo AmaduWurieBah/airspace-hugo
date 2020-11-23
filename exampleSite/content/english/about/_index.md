@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: About Our Organization
+description: 'The Future In Our Hands-Sierra Leone (FIOH-SL) '
+bg_image: "/images/img15.jpeg"
+
 ---
