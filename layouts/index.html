@@ -39,6 +39,8 @@
             <p>{{ .description | markdownify }}</p>
           </div>
           <p>{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
         </div>
       </div>
       <div class="col-md-5 col-sm-12">
