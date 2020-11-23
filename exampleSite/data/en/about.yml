@@ -104,6 +104,13 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
+  - name: Program Area Focus
+    content: "<b>1.\tAgriculture and Food Security: </b>\n•\tConservation Agriculture
+      \n•\tCrop and Animal production \n•\tCommunity Asset Development \n\n<b>2.\tHealth:
+      </b>\n•\tFood and Nutrition \n•\tWater and Sanitation \n \n<b>3.\tEducation:
+      </b>\n•\tChild Education \n•\tFunctional Literacy and Numeracy  \n \n<b>4.\tMicro
+      Enterprise Development </b>\n•\tValue Addition \n•\tSkills Promotion \n•\tVillage
+      Savings and Loan \n\n"
   - name: Vision
     content: A World in which rural communities are empowered to improve their livelihoods
       in order to achieve their full potential.
