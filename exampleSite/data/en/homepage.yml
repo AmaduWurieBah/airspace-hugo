@@ -4,12 +4,13 @@ banner:
   bg_image: "/images/img3.jpeg"
   bg_overlay: true
   title: 'The Future In Our Hands-Sierra Leone (FIOH-SL) '
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: 'The Future In Our Hands – Sierra Leone (FIOH-SL) is an indigenous Non-Governmental
+    Organization registered with the Ministry of Finance and Economic Development
+    (MOFED) and Sierra Leone Association of Non-Governmental Organizations (SLANGO) '
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: Read More
+    link: about
 about:
   enable: true
   title: About Us
