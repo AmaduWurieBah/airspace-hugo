@@ -104,19 +104,6 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: 'CROSS CUTTING ISSUE '
-    content: "•\tVillage Savings and Loan (VSL) is mainstreamed in all project activities
-      as this will serve as a community financing strategy for sustainability and
-      expansion. \n\n•\tHIV/AIDS, Human Right education are also mainstreamed into
-      all programme activities to reduce Human Right violation, prevent new HIV/AIDS
-      infections, reduce the risk and mitigate the impact. \n"
-  - name: Program Area Focus
-    content: "<b>1.\tAgriculture and Food Security: </b>\n•\tConservation Agriculture
-      <br>\n•\tCrop and Animal production <br>\n•\tCommunity Asset Development <br>\n\n<b>2.\tHealth:
-      </b>\n•\tFood and Nutrition <br>\n•\tWater and Sanitation <br>\n \n<b>3.\tEducation:
-      </b>\n•\tChild Education <br>\n•\tFunctional Literacy and Numeracy  <br>\n \n<b>4.\tMicro
-      Enterprise Development </b>\n•\tValue Addition <br>\n•\tSkills Promotion <br>\n•\tVillage
-      Savings and Loan <br>\n\n"
   - name: Vision
     content: A World in which rural communities are empowered to improve their livelihoods
       in order to achieve their full potential.
@@ -130,5 +117,18 @@ mission_vision:
       \n➢\tCollaboration and partnership with local and international NGOs and CBOs.
       \n\n<b>Geographical areas of operation:</b>\n➢ Bombali District (Makeni) \n➢\tKoinadugu
       District (Kabala) \n➢\tTonkolili District (Mile 91) \n"
+  - name: Program Area Focus
+    content: "<b>1.\tAgriculture and Food Security: </b>\n•\tConservation Agriculture
+      <br>\n•\tCrop and Animal production <br>\n•\tCommunity Asset Development <br>\n\n<b>2.\tHealth:
+      </b>\n•\tFood and Nutrition <br>\n•\tWater and Sanitation <br>\n \n<b>3.\tEducation:
+      </b>\n•\tChild Education <br>\n•\tFunctional Literacy and Numeracy  <br>\n \n<b>4.\tMicro
+      Enterprise Development </b>\n•\tValue Addition <br>\n•\tSkills Promotion <br>\n•\tVillage
+      Savings and Loan <br>\n\n"
+  - name: 'CROSS CUTTING ISSUE '
+    content: "•\tVillage Savings and Loan (VSL) is mainstreamed in all project activities
+      as this will serve as a community financing strategy for sustainability and
+      expansion. <br>\n\n•\tHIV/AIDS, Human Right education are also mainstreamed
+      into all programme activities to reduce Human Right violation, prevent new HIV/AIDS
+      infections, reduce the risk and mitigate the impact. \n"
 cta:
   enable: true
