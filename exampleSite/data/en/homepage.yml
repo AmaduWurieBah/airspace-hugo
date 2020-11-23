@@ -17,13 +17,27 @@ about:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: 'The Future In Our Hands – Sierra Leone (FIOH-SL) is an indigenous Non-Governmental
+    Organization registered with the Ministry of Finance and Economic Development
+    (MOFED) and Sierra Leone Association of Non-Governmental Organizations (SLANGO)
+    with Head office in Makeni (Bombali district) and sub-offices in Kabala town (Koinadugu
+    District) and Mile 91 (Tonkolili District) and Kambia town (Kambia District).  It
+    was established in 1993 as an offshoot of what was formally the Yoni Farmers’
+    Union.  In 1994, as the situation in Sierra Leone deteriorated, the membership
+    decided that FIOH had a vital role to play in providing assistance to those affected
+    by the escalating conflict.  The main focus of the organization during the rebel
+    war was to complement the emergency relief work of the Government of Sierra Leone,
+    as well as that of international and national NGOs. During and immediately after
+    the war, FIOH worked in collaboration with CARE International, DFID, and WFP,
+    distributing food and other relief items to internally displaced persons in their
+    operational areas.  Further activities included providing psychosocial support
+    to affected communities and raising awareness on Human Rights, HIV and AIDS prevention
+    and control. '
   image: images/wrapper-img.png
+  button:
+    enable: true
+    label: Read More
+    link: about
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
