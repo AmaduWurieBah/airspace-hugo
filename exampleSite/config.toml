@@ -53,14 +53,6 @@ hasChildren = true
 name = "Pages"
 weight = 5
 [[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
 URL = "service"
 name = "Service"
 parent = "Pages"
