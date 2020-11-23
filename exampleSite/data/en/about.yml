@@ -49,7 +49,7 @@ about:
     implementation: six computers, two Toyota Land Crushers, One Toyota Hilux car
     and eleven motor bikes. \n"
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
     link: "#"
   funfacts:
