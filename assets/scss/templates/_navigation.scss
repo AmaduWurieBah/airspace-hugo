@@ -1,5 +1,5 @@
 .navigation {
-  background: #fff;
+  background: #2ec8aa;
   padding: 20px 0;
 
   .navbar {
@@ -25,14 +25,14 @@
 
           font : {
             weight: 500;
-            size: 14px;
+            size: 18px;
           }
 
           text-transform:uppercase;
 
           &:hover,
           &:focus {
-            color: #000;
+            color: #2ec8aa;
             background: transparent;
           }
         }
@@ -51,7 +51,7 @@
 
       a {
         font-weight: normal;
-        color: #808080;
+        color: #2ec8aa;
         padding: 10px 20px;
         @include transition (all, 0.3s, ease);
 
