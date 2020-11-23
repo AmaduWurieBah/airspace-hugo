@@ -46,7 +46,7 @@ name = "Project"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Latest Post"
 weight = 4
 [[Languages.en.menu.main]]
 hasChildren = true
