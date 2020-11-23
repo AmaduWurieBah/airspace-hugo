@@ -131,7 +131,7 @@ mission_vision:
       into all programme activities to reduce Human Right violation, prevent new HIV/AIDS
       infections, reduce the risk and mitigate the impact. \n"
 cta:
-  enable: true
+  enable: false
   bg_image: "/images/img15.jpeg"
   title: 'CROSS CUTTING ISSUE '
   content: "•\tVillage Savings and Loan (VSL) is mainstreamed in all project activities
