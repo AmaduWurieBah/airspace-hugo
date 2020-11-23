@@ -139,15 +139,15 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Edmond Kposowa "
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "The Future In Our Hands-Sierra Leone (FIOH-SL) "
+email = "fiohsl2018@gmail.com "
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
-logo = "images/logo.png"
-logo_width = "150px"
-mobile = "0124857985320"
+location = "20 Lunsar Road, Makeni "
+logo = "/images/fioh-logo.PNG"
+logo_width = "75px"
+mobile = "+232 78 392-874/ 80 101-714 "
 multi_author = false
 [params.cookies]
 enable = true
