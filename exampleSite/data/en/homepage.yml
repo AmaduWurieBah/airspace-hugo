@@ -56,11 +56,13 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  bg_image: "/images/img10.jpeg"
+  title: "  CROSS CUTTING ISSUE "
+  content: "•\tVillage Savings and Loan (VSL) is mainstreamed in all project activities
+    as this will serve as a community financing strategy for sustainability and expansion.
+    \n\n•\tHIV/AIDS, Human Right education are also mainstreamed into all programme
+    activities to reduce Human Right violation, prevent new HIV/AIDS infections, reduce
+    the risk and mitigate the impact. \n"
   button:
     enable: true
     label: Tell Us Your Story
