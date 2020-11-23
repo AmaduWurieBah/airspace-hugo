@@ -112,11 +112,11 @@ mission_vision:
       infections, reduce the risk and mitigate the impact. \n"
   - name: Program Area Focus
     content: "<b>1.\tAgriculture and Food Security: </b>\n•\tConservation Agriculture
-      \n•\tCrop and Animal production \n•\tCommunity Asset Development \n\n<b>2.\tHealth:
-      </b>\n•\tFood and Nutrition \n•\tWater and Sanitation \n \n<b>3.\tEducation:
-      </b>\n•\tChild Education \n•\tFunctional Literacy and Numeracy  \n \n<b>4.\tMicro
-      Enterprise Development </b>\n•\tValue Addition \n•\tSkills Promotion \n•\tVillage
-      Savings and Loan \n\n"
+      <br>\n•\tCrop and Animal production <br>\n•\tCommunity Asset Development <br>\n\n<b>2.\tHealth:
+      </b>\n•\tFood and Nutrition <br>\n•\tWater and Sanitation <br>\n \n<b>3.\tEducation:
+      </b>\n•\tChild Education <br>\n•\tFunctional Literacy and Numeracy  <br>\n \n<b>4.\tMicro
+      Enterprise Development </b>\n•\tValue Addition <br>\n•\tSkills Promotion <br>\n•\tVillage
+      Savings and Loan <br>\n\n"
   - name: Vision
     content: A World in which rural communities are empowered to improve their livelihoods
       in order to achieve their full potential.
