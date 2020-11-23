@@ -1,131 +1,141 @@
-################################## About #####################################
+---
 about:
-  enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
-          
-          
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
-
+  enable: true
+  image: "/images/img5.jpeg"
+  title: Brief History about<br> Future in Our Hands SL
+  content: "The Future In Our Hands – Sierra Leone (FIOH-SL) is an indigenous Non-Governmental
+    Organization registered with the Ministry of Finance and Economic Development
+    (MOFED) and Sierra Leone Association of Non-Governmental Organizations (SLANGO)
+    with Head office in Makeni (Bombali district) and sub-offices in Kabala town (Koinadugu
+    District) and Mile 91 (Tonkolili District) and Kambia town (Kambia District).
+    \ It was established in 1993 as an offshoot of what was formally the Yoni Farmers’
+    Union.  In 1994, as the situation in Sierra Leone deteriorated, the membership
+    decided that FIOH had a vital role to play in providing assistance to those affected
+    by the escalating conflict.  The main focus of the organization during the rebel
+    war was to complement the emergency relief work of the Government of Sierra Leone,
+    as well as that of international and national NGOs. During and immediately after
+    the war, FIOH worked in collaboration with CARE International, DFID, and WFP,
+    distributing food and other relief items to internally displaced persons in their
+    operational areas.  Further activities included providing psychosocial support
+    to affected communities and raising awareness on Human Rights, HIV and AIDS prevention
+    and control. \nFollowing the end of the conflict in 2002, FIOH shifted focus from
+    emergency relief to sustainable development with specific focused on building
+    the capacity of communities for self reliance.  It has continued to build partnership
+    and linkages with a variety of local and international organizations and currently
+    implementing; Rural Nutrition & Livelihood Promotion Project, supported by Bread
+    for the World in Koinadugu district whilst the Voluntary Services Overseas (VSO)
+    and UNDP/NAYCOMGIP is providing the human resource support.  In addition, the
+    FIOH-UK, and UN/WFP are supporting in community asset creation and rehabilitation
+    for marginalized youths and communities.  \n \nFIOH-SL. also enjoys strong links
+    with CBOs at grassroots level aimed at building their capacities to better serve
+    their communities. \nAccountability: \nThe FIOH-SL is accountable to a Board of
+    Trustee comprising 4 male and 3 female members. The Board administers the activities
+    of the organization through the Secretary who is also the Director. \nThe Steering
+    committee helps in information flow between the management and the staffs and
+    it supports in formulating programme support systems and policies for the organization’s
+    staff and in designing the way forward in project activities. \n \nGoverning Body
+    \ \nThe organization is governed by a Board of Trustee headed by a Chairman. The
+    Board supervises the work of the management. Membership is drawn from founder
+    members and reputable public servants. The lifespan of the committee is five (5)
+    years maximum. \n \nInstitutional Capacity: \nFIOH-SL has an effective decision
+    making structure that comprises a Board of Trustees, Project Management unit and
+    a program’s support staff. At secretariat and operational levels, the organization
+    has 15 paid staff and 4 international voluntary staff from VSO including trained
+    and qualified Agriculturist, specialized in Animal and Crop Production. The organization
+    also has a trained and qualified staff in Micro enterprise development. \n \nFIOH-SL.
+    has over fifteen years of experience in implementing sustainable rural development
+    programmes. The finance of the organization is managed by a well qualified and
+    experienced Finance Officer. \n \nFIOH has the following logistics for project
+    implementation: six computers, two Toyota Land Crushers, One Toyota Hilux car
+    and eleven motor bikes. \n"
   button:
-    enable : true
-    label : "Download Company Profile"
-    link : "#"
-
+    enable: true
+    label: Download Company Profile
+    link: "#"
   funfacts:
-    # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Completed Projects"
-      count : "349"
-      
-    # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "35000"
-      
-    # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "70"
-      
-    # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "10"
-      
-    # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "75"
-      
-    # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "20"
-      
-################################ feature #####################################
+  - icon: ion-ios-flask-outline
+    name: Completed Projects
+    count: "349"
+  - icon: ion-ios-flame-outline
+    name: Lines Of Code
+    count: "35000"
+  - icon: ion-ios-pint-outline
+    name: Satisfied Customer
+    count: "70"
+  - icon: ion-ios-wineglass-outline
+    name: Awards Winner
+    count: "10"
+  - icon: ion-ios-chatboxes-outline
+    name: Satisfied Customer
+    count: "75"
+  - icon: ion-ios-body-outline
+    name: Awards Winner
+    count: "20"
 features:
-  enable : true
-  title : "We are indepented Design & Development Agency"
+  enable: true
+  title: We are indepented Design & Development Agency
   feature_item:
-    # feature item loop
-    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "IOS App Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-    # feature item loop
-    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "App Secutity"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-    # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Games Development"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-    # feature item loop
-    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Animation and Editing"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-    # feature item loop
-    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "UI/UX Design"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
-    # feature item loop
-    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Branding"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-    
-
-#################################### testimonial & mission vision #######################################
+  - icon: ion-ios-color-filter-outline
+    name: IOS App Development
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-unlocked-outline
+    name: App Secutity
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-game-controller-b-outline
+    name: Games Development
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-mic-outline
+    name: Animation and Editing
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-lightbulb-outline
+    name: UI/UX Design
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-star-outline
+    name: Branding
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
 testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
-
+  enable: true
 mission_vision:
-  enable : true
+  enable: true
   tabs:
-    # tab item loop
-    - name : "Vision"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
-      
-    # tab item loop
-    - name : "Mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
-      
-    # tab item loop
-    - name : "Approach"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-      harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-      quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-      voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-      iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-      suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-      illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo."
-
-
-############################# call to action #################################
+  - name: Vision
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
+      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
+      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
+      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
+      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
+      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
+      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
+      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
+      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo.
+  - name: Mission
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
+      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
+      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
+      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
+      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
+      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
+      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
+      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
+      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo.
+  - name: Approach
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
+      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
+      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
+      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
+      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
+      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
+      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
+      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
+      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo.
 cta:
-  enable : true
-  # call to action content comes from "data/*/homepage.yml"
+  enable: true
