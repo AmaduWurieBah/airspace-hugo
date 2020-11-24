@@ -1,6 +1,6 @@
 ---
-title: Our Services
-description: 'The Future In Our Hands-Sierra Leone (FIOH-SL) '
+title: 'Our Organizational Structure '
+description: FIOH ORGANIZATIONAL STRUCTURE
 bg_image: "/images/img15.jpeg"
 
 ---
