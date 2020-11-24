@@ -50,7 +50,7 @@ name = "Pages"
 weight = 5
 [[Languages.en.menu.main]]
 URL = "service"
-name = "Service"
+name = "Structure"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
