@@ -9,8 +9,8 @@ title = "Village Savings &  Loans (VS&L) "
 info = ""
 label = ""
 [[information]]
-info = ""
-label = ""
+info = "Koinadugu District "
+label = "LOCATION:"
 [[information]]
 info = "MITAF/CARE "
 label = "DONOR:"
