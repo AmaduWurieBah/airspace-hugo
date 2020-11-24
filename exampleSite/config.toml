@@ -45,6 +45,7 @@ URL = "blog"
 name = "Latest Post"
 weight = 4
 [[Languages.en.menu.main]]
+URL = "service"
 hasChildren = true
 name = "Structure"
 weight = 5
