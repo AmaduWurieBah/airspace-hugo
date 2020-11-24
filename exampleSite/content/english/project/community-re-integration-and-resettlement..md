@@ -2,7 +2,6 @@
 bg_image = "/images/img22.jpeg"
 category = "Past"
 description = "Past Activity"
-draft = true
 image = "/images/img6.jpeg"
 title = "Community Re- integration and Resettlement. "
 [[information]]
