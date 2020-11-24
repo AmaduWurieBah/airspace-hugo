@@ -7,8 +7,8 @@ category: CURRENT ACTIVITY
 information:
 - label: 'Project Name: '
   info: 'RUNLIP '
-- label: What We Did
-  info: Website Redesign
+- label: 'LOCATION: '
+  info: 'Koinadugu District 2013-2015 '
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
