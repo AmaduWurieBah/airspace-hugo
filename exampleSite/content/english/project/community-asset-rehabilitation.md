@@ -11,8 +11,8 @@ label = "PROJECT NAME: "
 info = "Koinadugu District"
 label = "LOCATION: "
 [[information]]
-info = ""
-label = ""
+info = " 2013-2015 "
+label = "YEARS:"
 [[information]]
 info = ""
 label = ""
