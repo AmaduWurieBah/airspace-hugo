@@ -15,7 +15,7 @@ label = "LOCATION"
 info = "FIOH-UK &  GEORG Norway "
 label = "DONOR:"
 [[information]]
-info = ""
-label = ""
+info = "LE88,000,000 "
+label = "APPROVED BUDGET:"
 
 +++
