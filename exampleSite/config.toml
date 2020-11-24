@@ -50,10 +50,6 @@ hasChildren = true
 name = "Structure"
 weight = 5
 [[Languages.en.menu.main]]
-URL = "service"
-name = "ORGANIZATIONAL STRUCTURE "
-parent = "Pages"
-[[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
