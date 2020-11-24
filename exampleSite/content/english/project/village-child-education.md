@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/img22.jpeg"
-category = ""
+category = "Current"
 description = "Current Activity"
 draft = true
 image = "/images/img10.jpeg"
@@ -9,8 +9,8 @@ title = "Village Child Education "
 info = "Village Child Education "
 label = "PROJECT NAME: "
 [[information]]
-info = ""
-label = ""
+info = "Tonkolili District"
+label = "LOCATION"
 [[information]]
 info = ""
 label = ""
