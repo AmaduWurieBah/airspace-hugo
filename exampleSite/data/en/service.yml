@@ -6,7 +6,7 @@ about:
   image: "/images/screenshot-4.png"
   funfacts: []
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: ion-heart-broken
