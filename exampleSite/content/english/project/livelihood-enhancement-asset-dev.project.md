@@ -14,9 +14,6 @@ label = "LOCATION:"
 [[information]]
 info = "USAID/CARE "
 label = "DONOR:"
-[[information]]
-info = ""
-label = ""
 
 +++
 **Activity**
