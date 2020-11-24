@@ -12,8 +12,8 @@ label = "PROJECT NAME:"
 info = "Bombali & Koinadugu  Districts "
 label = "LOCATION:"
 [[information]]
-info = ""
-label = ""
+info = "USAID/CARE "
+label = "DONOR:"
 [[information]]
 info = ""
 label = ""
