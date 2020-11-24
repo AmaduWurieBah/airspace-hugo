@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/img22.jpeg"
-category = ""
+category = "Past"
 description = "Past Activity"
 image = "/images/1mg16.jpeg"
 title = "Village Savings &  Loans (VS&L) "
