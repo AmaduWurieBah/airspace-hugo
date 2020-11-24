@@ -4,8 +4,19 @@ category = ""
 description = "Past Activity"
 draft = true
 image = "/images/1mg16.jpeg"
-information = []
 title = "Village Savings &  Loans (VS&L) "
+[[information]]
+info = ""
+label = ""
+[[information]]
+info = ""
+label = ""
+[[information]]
+info = "MITAF/CARE "
+label = "DONOR:"
+[[information]]
+info = ""
+label = ""
 
 +++
 **Activities**
