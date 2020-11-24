@@ -11,8 +11,8 @@ label = "PROJECT NAME:"
 info = "Koinadugu District "
 label = "LOCATION:"
 [[information]]
-info = ""
-label = ""
+info = "HOWARD G. BUFFET  FOUNDAION "
+label = "DONOR: "
 [[information]]
 info = ""
 label = ""
