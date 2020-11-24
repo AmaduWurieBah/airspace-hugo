@@ -6,8 +6,8 @@ draft = true
 image = "/images/img15.jpeg"
 title = "Livelihood,  Enhancement &  Asset Dev. Project "
 [[information]]
-info = ""
-label = ""
+info = "Livelihood,  Enhancement &  Asset Dev. Project "
+label = "PROJECT NAME:"
 [[information]]
 info = ""
 label = ""
