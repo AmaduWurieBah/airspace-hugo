@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: 'Contact us '
+description: 'The Future In Our Hands-Sierra Leone (FIOH-SL) '
+bg_image: "/images/img5.jpeg"
+
 ---
