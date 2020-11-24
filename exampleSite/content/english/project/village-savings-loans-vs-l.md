@@ -2,7 +2,6 @@
 bg_image = "/images/img22.jpeg"
 category = ""
 description = "Past Activity"
-draft = true
 image = "/images/1mg16.jpeg"
 title = "Village Savings &  Loans (VS&L) "
 [[information]]
