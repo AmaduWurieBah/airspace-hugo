@@ -2,7 +2,7 @@
 bg_image = "/images/img14.jpeg"
 category = "Current"
 description = "Current Activity"
-image = "/images/1mg18.jpeg"
+image = "/images/img5.jpeg"
 title = "Community Asset Rehabilitation  "
 [[information]]
 info = "Community Asset Rehabilitation  "
