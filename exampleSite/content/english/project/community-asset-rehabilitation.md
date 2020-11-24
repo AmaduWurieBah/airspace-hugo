@@ -8,8 +8,8 @@ title = "Community Asset Rehabilitation  "
 info = "Community Asset Rehabilitation  "
 label = "PROJECT NAME: "
 [[information]]
-info = ""
-label = ""
+info = "Koinadugu District"
+label = "LOCATION: "
 [[information]]
 info = ""
 label = ""
