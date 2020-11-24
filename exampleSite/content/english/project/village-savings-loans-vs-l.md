@@ -6,8 +6,8 @@ draft = true
 image = "/images/1mg16.jpeg"
 title = "Village Savings &  Loans (VS&L) "
 [[information]]
-info = ""
-label = ""
+info = "Village Savings &  Loans (VS&L) "
+label = "PROJECT NAME"
 [[information]]
 info = "Koinadugu District "
 label = "LOCATION:"
