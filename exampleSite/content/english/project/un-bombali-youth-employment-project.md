@@ -2,7 +2,6 @@
 bg_image = "/images/1mg12.jpeg"
 category = "Past"
 description = "Past Activity"
-draft = true
 image = "/images/img19.jpeg"
 information = []
 title = "UN/Bombali Youth  Employment  Project "
