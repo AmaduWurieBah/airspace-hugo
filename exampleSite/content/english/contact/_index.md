@@ -1,6 +1,6 @@
 ---
-title: 'Contact us '
+title: Contact Us
 description: 'The Future In Our Hands-Sierra Leone (FIOH-SL) '
-bg_image: "/images/img5.jpeg"
+bg_image: "/images/img19.jpeg"
 
 ---
