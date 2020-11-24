@@ -4,8 +4,13 @@ category = ""
 description = "Past Activity"
 draft = true
 image = "/images/img6.jpeg"
-information = []
 title = "LEAD"
+[[information]]
+info = "LEAD"
+label = "PROJECT NAME:"
+[[information]]
+info = ""
+label = ""
 
 +++
 **Activities**
