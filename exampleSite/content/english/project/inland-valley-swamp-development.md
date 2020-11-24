@@ -12,8 +12,8 @@ label = "PROJECT NAME:"
 info = "Kambia District "
 label = "LOCATION: "
 [[information]]
-info = ""
-label = ""
+info = "GAFSP "
+label = "DONOR:"
 [[information]]
 info = ""
 label = ""
