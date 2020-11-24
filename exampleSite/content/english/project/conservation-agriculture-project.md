@@ -14,8 +14,8 @@ label = "LOCATION:"
 info = "HOWARD G. BUFFET  FOUNDAION "
 label = "DONOR: "
 [[information]]
-info = ""
-label = ""
+info = "Le808,990,000.00 "
+label = "APPROVED BUDGET:"
 
 +++
 **Activity**
