@@ -14,7 +14,7 @@ label = "LOCATION: "
 info = " 2013-2015 "
 label = "YEARS:"
 [[information]]
-info = "WFP  LE47,000,000 "
+info = "WFP  "
 label = "DONOR:"
 
 +++
