@@ -3,7 +3,7 @@ title: RUNLIP
 description: 'CURRENT ACTIVITIES '
 image: "/images/img19.jpeg"
 bg_image: "/images/img22.jpeg"
-category: CURRENT ACTIVITY
+category: CURRENT
 information:
 - label: 'Project Name: '
   info: 'RUNLIP '
