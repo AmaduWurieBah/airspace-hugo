@@ -5,11 +5,14 @@ description = "Current Activity"
 image = "/images/1mg18.jpeg"
 title = "RUNLIP "
 [[information]]
-info = "Koinadugu District "
-label = "LOCATION: "
+info = "2013-2015 "
+label = "YEARS: "
 [[information]]
 info = "RUNLIP "
 label = "PROJECT NAME:"
+[[information]]
+info = "Koinadugu District "
+label = "LOCATION: "
 
 +++
 **Activities**
