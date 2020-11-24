@@ -14,7 +14,7 @@ label = "LOCATION: "
 info = "2013-2015 "
 label = "YEARS: "
 [[information]]
-info = "BFTW  Approved Budget: EURO.197,000 "
+info = "BFTW  "
 label = "DONOR:"
 
 +++
