@@ -46,7 +46,7 @@ name = "Latest Post"
 weight = 4
 [[Languages.en.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Structure"
 weight = 5
 [[Languages.en.menu.main]]
 URL = "service"
