@@ -9,8 +9,8 @@ title = "Inland Valley  Swamp  Development  "
 info = "Inland Valley  Swamp  Development  "
 label = "PROJECT NAME:"
 [[information]]
-info = ""
-label = ""
+info = "Kambia District "
+label = "LOCATION: "
 [[information]]
 info = ""
 label = ""
