@@ -5,14 +5,17 @@ description = "Current Activity"
 image = "/images/1mg18.jpeg"
 title = "RUNLIP "
 [[information]]
-info = "2013-2015 "
-label = "YEARS: "
-[[information]]
 info = "RUNLIP "
 label = "PROJECT NAME:"
 [[information]]
 info = "Koinadugu District "
 label = "LOCATION: "
+[[information]]
+info = "2013-2015 "
+label = "YEARS: "
+[[information]]
+info = "BFTW  Approved Budget: EURO.197,000 "
+label = "DONOR:"
 
 +++
 **Activities**
