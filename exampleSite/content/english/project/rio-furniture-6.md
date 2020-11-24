@@ -1,12 +1,12 @@
 ---
-title: 'RUNLIP '
+title: RUNLIP
 description: 'CURRENT ACTIVITIES '
-image: images/portfolio/work6.jpg
-bg_image: "/images/img19.jpeg"
-category: Video
+image: "/images/img19.jpeg"
+bg_image: "/images/img22.jpeg"
+category: CURRENT ACTIVITY
 information:
-- label: Client
-  info: Jannie Kelonsky
+- label: 'Project Name: '
+  info: 'RUNLIP '
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
