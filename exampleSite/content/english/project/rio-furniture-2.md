@@ -7,8 +7,8 @@ category: CURRENT ACTIVITIES
 information:
 - label: 'PROJECT NAME:'
   info: 'Community Asset Rehabilitation  '
-- label: What We Did
-  info: Website Redesign
+- label: 'LOCATION: '
+  info: 'Koinadugu District '
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
