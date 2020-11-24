@@ -9,8 +9,8 @@ information:
   info: 'RUNLIP '
 - label: 'LOCATION: '
   info: 'Koinadugu District 2013-2015 '
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: 'DONOR: '
+  info: 'BFTW  Approved Budget:  EURO.197,000   '
 - label: Completed on
   info: 17th March 2014
 - label: Skills
