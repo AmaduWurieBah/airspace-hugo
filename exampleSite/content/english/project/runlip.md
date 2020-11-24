@@ -2,7 +2,6 @@
 bg_image = ""
 category = "Current"
 description = "Current Activity"
-draft = true
 image = ""
 information = []
 title = "RUNLIP "
