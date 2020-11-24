@@ -9,8 +9,8 @@ title = "Livelihood,  Enhancement &  Asset Dev. Project "
 info = "Livelihood,  Enhancement &  Asset Dev. Project "
 label = "PROJECT NAME:"
 [[information]]
-info = ""
-label = ""
+info = "Bombali & Koinadugu  Districts "
+label = "LOCATION:"
 [[information]]
 info = ""
 label = ""
