@@ -8,8 +8,8 @@ title = "Conservation Agriculture Project "
 info = "Conservation Agriculture Project "
 label = "PROJECT NAME:"
 [[information]]
-info = ""
-label = ""
+info = "Koinadugu District "
+label = "LOCATION:"
 [[information]]
 info = ""
 label = ""
