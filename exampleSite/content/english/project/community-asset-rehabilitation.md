@@ -16,6 +16,9 @@ label = "YEARS:"
 [[information]]
 info = "WFP  "
 label = "DONOR:"
+[[information]]
+info = "LE47,000,000 "
+label = "APPROVED BUDGET:"
 
 +++
 **Activities**
