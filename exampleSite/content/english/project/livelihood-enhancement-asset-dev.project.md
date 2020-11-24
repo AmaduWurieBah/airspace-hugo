@@ -2,7 +2,6 @@
 bg_image = "/images/img22.jpeg"
 category = "Past"
 description = "Past Activity"
-draft = true
 image = "/images/img15.jpeg"
 title = "Livelihood,  Enhancement &  Asset Dev. Project "
 [[information]]
