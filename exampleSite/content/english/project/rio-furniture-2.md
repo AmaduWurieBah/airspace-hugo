@@ -9,8 +9,8 @@ information:
   info: 'Community Asset Rehabilitation  '
 - label: 'LOCATION: '
   info: 'Koinadugu District '
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: 'YEAR: '
+  info: '2013-2015 '
 - label: Completed on
   info: 17th March 2014
 - label: Skills
