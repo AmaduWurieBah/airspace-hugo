@@ -2,7 +2,6 @@
 bg_image = "/images/img22.jpeg"
 category = "Past"
 description = "Past Activity"
-draft = true
 image = "/images/img7.jpeg"
 title = "Tonkolili  Education &  Livelihood Project  (TELP) "
 [[information]]
