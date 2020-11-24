@@ -2,7 +2,6 @@
 bg_image = "/images/img22.jpeg"
 category = ""
 description = "Past Activity"
-draft = true
 image = "/images/img6.jpeg"
 title = "LEAD"
 [[information]]
