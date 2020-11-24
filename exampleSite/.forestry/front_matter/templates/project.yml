@@ -31,6 +31,7 @@ fields:
     name: info
     label: info
 pages:
+- exampleSite/content/english/project/Current.md
 - exampleSite/content/english/project/Past.md
 - exampleSite/content/english/project/conservation-agriculture-project.md
 - exampleSite/content/english/project/un-bombali-youth-employment-project.md
