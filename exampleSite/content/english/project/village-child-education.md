@@ -19,3 +19,7 @@ info = "LE88,000,000 "
 label = "APPROVED BUDGET:"
 
 +++
+**Activities**
+
+1. Construction of Classroom Provision of furniture & school materials
+2. VIP Toilet & Hand pump water well
