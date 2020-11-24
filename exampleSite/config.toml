@@ -22,7 +22,7 @@ name = "Project"
 weight = 2
 [[Languages.en.menu.footer]]
 URL = "service"
-name = "Service"
+name = "Structure"
 weight = 3
 [[Languages.en.menu.footer]]
 URL = "contact"
