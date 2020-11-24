@@ -12,8 +12,8 @@ label = "PROJECT NAME: "
 info = "Tonkolili District"
 label = "LOCATION"
 [[information]]
-info = ""
-label = ""
+info = "FIOH-UK &  GEORG Norway "
+label = "DONOR:"
 [[information]]
 info = ""
 label = ""
