@@ -11,6 +11,9 @@ label = "PROJECT NAME:"
 info = "Makeni, Bombali  District"
 label = "LOCATION:"
 [[information]]
+info = "UNDP/COOPI "
+label = "DONOR:"
+[[information]]
 info = ""
 label = ""
 
