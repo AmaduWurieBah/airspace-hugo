@@ -1,18 +1,16 @@
 +++
-bg_image = ""
+bg_image = "/images/img22.jpeg"
 category = "Current"
 description = "Current Activity"
-image = ""
-information = []
+image = "/images/1mg18.jpeg"
 title = "RUNLIP "
+[[information]]
+info = "RUNLIP "
+label = "PROJECT NAME:"
 
 +++
 **Activities**
 
-Cultivation of high protein crops Construction of Hand Pump
-
-water well and VIP toilet
-
-VS &L
-
-Food & Nutrition
+1. Cultivation of high protein crops Construction of Hand 
+2. Pump water well and VIP toilet VS &L
+3. Food & Nutrition
