@@ -9,8 +9,8 @@ title = "LEAD"
 info = "LEAD"
 label = "PROJECT NAME:"
 [[information]]
-info = ""
-label = ""
+info = "Le784,504,000.00 "
+label = "APPROVED BUDGET"
 
 +++
 **Activities**
