@@ -53,7 +53,7 @@ weight = 6
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 languageCode = "fr-fr"
-languageName = "Fr"
+languageName = ""
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
