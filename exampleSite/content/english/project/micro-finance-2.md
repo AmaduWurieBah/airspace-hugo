@@ -2,7 +2,6 @@
 bg_image = "/images/img15.jpeg"
 category = "past"
 description = "Past Activity"
-draft = true
 image = "/images/img17.jpeg"
 title = "Micro Finance "
 [[information]]
