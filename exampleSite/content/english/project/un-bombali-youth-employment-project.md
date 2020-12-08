@@ -13,9 +13,6 @@ label = "LOCATION:"
 [[information]]
 info = "UNDP/COOPI "
 label = "DONOR:"
-[[information]]
-info = "Le546,747,500.00 "
-label = "APPROVED BUDGET:"
 
 +++
 **Activities**
