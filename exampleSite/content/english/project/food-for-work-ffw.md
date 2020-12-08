@@ -13,9 +13,6 @@ label = "LOCATION:"
 [[information]]
 info = "UN/WFP &  MAFS "
 label = "DONOR:"
-[[information]]
-info = "Le87,000,000 "
-label = "APPROVED BUDGET:"
 
 +++
 **Activities**
