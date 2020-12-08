@@ -13,9 +13,6 @@ label = "LOCATION:"
 [[information]]
 info = "MITAF/CARE "
 label = "DONOR:"
-[[information]]
-info = "Le796,680,000.00 "
-label = "APPROVED BUDGET:"
 
 +++
 **Activities**
