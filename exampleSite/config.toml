@@ -10,7 +10,7 @@ title = "Future in our Hands Sierra Leone"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Future in Our Hands All Rights Reserved - [Developed By: Link Corporation Limited SL](https://linkcorp-sl.com) "
 languageCode = "en-us"
-languageName = "En"
+languageName = ""
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
