@@ -29,6 +29,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
+URL = "blog"
+name = "POST"
+weight = "5"
+[[Languages.en.menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
