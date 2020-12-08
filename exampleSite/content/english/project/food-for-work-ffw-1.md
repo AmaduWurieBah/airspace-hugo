@@ -2,7 +2,6 @@
 bg_image = "/images/img13.jpeg"
 category = "past"
 description = "Past Activity"
-draft = true
 image = "/images/1mg20.jpeg"
 title = "Food For Work (FFW) "
 [[information]]
