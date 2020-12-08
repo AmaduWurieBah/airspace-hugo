@@ -29,10 +29,6 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "POST"
-weight = "5"
-[[Languages.en.menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
@@ -44,10 +40,6 @@ weight = 2
 URL = "project"
 name = "Project"
 weight = 3
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Latest Post"
-weight = 4
 [[Languages.en.menu.main]]
 URL = "service"
 hasChildren = true
