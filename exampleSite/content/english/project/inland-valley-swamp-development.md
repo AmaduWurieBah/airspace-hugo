@@ -13,9 +13,6 @@ label = "LOCATION: "
 [[information]]
 info = "GAFSP "
 label = "DONOR:"
-[[information]]
-info = " LE379.000,000 "
-label = "APPROVED BUDGET:"
 
 +++
 **Activities**
