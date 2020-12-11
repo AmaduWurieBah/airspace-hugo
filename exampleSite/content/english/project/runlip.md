@@ -16,9 +16,6 @@ label = "YEARS: "
 [[information]]
 info = "BFTW  "
 label = "DONOR:"
-[[information]]
-info = "EURO.197,000 "
-label = "APPROVED BUDGET: "
 
 +++
 **Activities**
